@@ -71,7 +71,7 @@ gcc src/cfd_solver.c -o cfd_solver -lm -O2
 Run the compiled executable:
 
 ```bash
-./cfd_solver
+src/Merging and colliding bores Simulation.cpp
 ```
 
 The simulation generates a numerical output file containing the temporal evolution of the computed field.
